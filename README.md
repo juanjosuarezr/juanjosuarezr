@@ -1,5 +1,6 @@
 # Juan José Suárez Rodríguez
-**Estudiante de Ingeniería de Software | Desarrollo Fullstack**
+
+**Software Engineering Student | Fullstack Developer**
 
 Construyendo proyectos y aprendiendo cada día, 💻 un commit a la vez.<br>
 *Building projects and learning every day, one commit at a time.*
@@ -23,6 +24,7 @@ Construyendo proyectos y aprendiendo cada día, 💻 un commit a la vez.<br>
 
 ## 🌐 Enlaces
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-su%C3%A1rez-52050a2bb/)
+
 
 
 
