@@ -18,12 +18,13 @@ Construyendo proyectos y aprendiendo cada día, 💻 un commit a la vez.<br>
 
 **Herramientas y entornos:**  
 <br>
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-0B3D91?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-0B3D91?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ## 🌐 Enlaces
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-su%C3%A1rez-52050a2bb/)
+
 
 
 
