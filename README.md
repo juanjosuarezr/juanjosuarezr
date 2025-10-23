@@ -15,9 +15,9 @@ Construyendo proyectos y aprendiendo cada día, 💻 un commit a la vez.<br>
 
 **Frameworks y Herramientas:**  
 <br>
-![Django](https://img.shields.io/badge/Django-0A4B33?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0A4B33?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0B3D91?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ## 🌐 Enlaces
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-su%C3%A1rez-52050a2bb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www)
